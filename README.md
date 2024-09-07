@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --># 💫 About Me:
-ML/AI/Mobile dev project<br>learning Python and Flutter
+Software engineering student
 
 
 ## 🌐 Socials:
